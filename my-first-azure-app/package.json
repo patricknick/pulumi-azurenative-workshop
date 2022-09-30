@@ -1,0 +1,12 @@
+{
+  "name": "my-first-azure-app",
+  "main": "index.ts",
+  "devDependencies": {
+    "@types/node": "^16"
+  },
+  "dependencies": {
+    "@pulumi/azure-native": "1.79.2",
+    "@pulumi/docker": "^3.4.1",
+    "@pulumi/pulumi": "3.40.2"
+  }
+}

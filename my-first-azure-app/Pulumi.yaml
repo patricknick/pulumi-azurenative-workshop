@@ -1,0 +1,3 @@
+name: my-first-azure-app
+description: A minimal TypeScript Pulumi program
+runtime: nodejs
